@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\ycp\.Net\static_members\bin\Debug\net7.0\static_members.exe
+C:\Users\Acer\Desktop\ycp\.Net\static_members\bin\Debug\net7.0\static_members.deps.json
+C:\Users\Acer\Desktop\ycp\.Net\static_members\bin\Debug\net7.0\static_members.runtimeconfig.json
+C:\Users\Acer\Desktop\ycp\.Net\static_members\bin\Debug\net7.0\static_members.dll
+C:\Users\Acer\Desktop\ycp\.Net\static_members\bin\Debug\net7.0\static_members.pdb
+C:\Users\Acer\Desktop\ycp\.Net\static_members\obj\Debug\net7.0\static_members.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\ycp\.Net\static_members\obj\Debug\net7.0\static_members.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\static_members\obj\Debug\net7.0\static_members.AssemblyInfo.cs
+C:\Users\Acer\Desktop\ycp\.Net\static_members\obj\Debug\net7.0\static_members.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\static_members\obj\Debug\net7.0\static_members.dll
+C:\Users\Acer\Desktop\ycp\.Net\static_members\obj\Debug\net7.0\refint\static_members.dll
+C:\Users\Acer\Desktop\ycp\.Net\static_members\obj\Debug\net7.0\static_members.pdb
+C:\Users\Acer\Desktop\ycp\.Net\static_members\obj\Debug\net7.0\static_members.genruntimeconfig.cache
+C:\Users\Acer\Desktop\ycp\.Net\static_members\obj\Debug\net7.0\ref\static_members.dll

@@ -1,0 +1,33 @@
+﻿namespace FileHandling
+{
+    internal class Program
+    {
+        static void Main()
+        {
+            WriteToTextFileFormatted();
+            ReadFromTextFileFormatted();
+        }
+        private static void WriteToTextFileFormatted()
+        {
+           
+            StreamWriter writer = File.CreateText("C:\\aaaa\\a.txt");
+            writer.WriteLine("line 1");
+            writer.WriteLine("Line 2");
+            writer.WriteLine("line 3");
+
+            writer.Close();
+        }
+
+        private static void ReadFromTextFileFormatted()
+        {
+            string s;
+            StreamReader reader = File.OpenText("C:\\aaaa\\a.txt");
+            while ((s = reader.ReadLine()) != null)
+            {
+                Console.WriteLine(s);
+            }
+            reader.Close();
+        }
+
+    }
+}

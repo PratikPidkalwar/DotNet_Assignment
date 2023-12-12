@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\ycp\.Net\Day2\Assignment_Employess\bin\Debug\net7.0\Assignment_Employess.exe
+C:\Users\Acer\Desktop\ycp\.Net\Day2\Assignment_Employess\bin\Debug\net7.0\Assignment_Employess.deps.json
+C:\Users\Acer\Desktop\ycp\.Net\Day2\Assignment_Employess\bin\Debug\net7.0\Assignment_Employess.runtimeconfig.json
+C:\Users\Acer\Desktop\ycp\.Net\Day2\Assignment_Employess\bin\Debug\net7.0\Assignment_Employess.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day2\Assignment_Employess\bin\Debug\net7.0\Assignment_Employess.pdb
+C:\Users\Acer\Desktop\ycp\.Net\Day2\Assignment_Employess\obj\Debug\net7.0\Assignment_Employess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\ycp\.Net\Day2\Assignment_Employess\obj\Debug\net7.0\Assignment_Employess.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day2\Assignment_Employess\obj\Debug\net7.0\Assignment_Employess.AssemblyInfo.cs
+C:\Users\Acer\Desktop\ycp\.Net\Day2\Assignment_Employess\obj\Debug\net7.0\Assignment_Employess.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day2\Assignment_Employess\obj\Debug\net7.0\Assignment_Employess.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day2\Assignment_Employess\obj\Debug\net7.0\refint\Assignment_Employess.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day2\Assignment_Employess\obj\Debug\net7.0\Assignment_Employess.pdb
+C:\Users\Acer\Desktop\ycp\.Net\Day2\Assignment_Employess\obj\Debug\net7.0\Assignment_Employess.genruntimeconfig.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day2\Assignment_Employess\obj\Debug\net7.0\ref\Assignment_Employess.dll

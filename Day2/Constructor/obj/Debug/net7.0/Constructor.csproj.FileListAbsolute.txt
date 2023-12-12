@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\ycp\.Net\Day2\Constructor\obj\Debug\net7.0\Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\ycp\.Net\Day2\Constructor\obj\Debug\net7.0\Constructor.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day2\Constructor\obj\Debug\net7.0\Constructor.AssemblyInfo.cs
+C:\Users\Acer\Desktop\ycp\.Net\Day2\Constructor\obj\Debug\net7.0\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day2\Constructor\bin\Debug\net7.0\Constructor.exe
+C:\Users\Acer\Desktop\ycp\.Net\Day2\Constructor\bin\Debug\net7.0\Constructor.deps.json
+C:\Users\Acer\Desktop\ycp\.Net\Day2\Constructor\bin\Debug\net7.0\Constructor.runtimeconfig.json
+C:\Users\Acer\Desktop\ycp\.Net\Day2\Constructor\bin\Debug\net7.0\Constructor.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day2\Constructor\bin\Debug\net7.0\Constructor.pdb
+C:\Users\Acer\Desktop\ycp\.Net\Day2\Constructor\obj\Debug\net7.0\Constructor.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day2\Constructor\obj\Debug\net7.0\refint\Constructor.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day2\Constructor\obj\Debug\net7.0\Constructor.pdb
+C:\Users\Acer\Desktop\ycp\.Net\Day2\Constructor\obj\Debug\net7.0\Constructor.genruntimeconfig.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day2\Constructor\obj\Debug\net7.0\ref\Constructor.dll

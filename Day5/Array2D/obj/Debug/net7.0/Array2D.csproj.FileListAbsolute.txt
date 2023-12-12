@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\ycp\.Net\Day4\Day5\Array2D\bin\Debug\net7.0\Array2D.exe
+C:\Users\Acer\Desktop\ycp\.Net\Day4\Day5\Array2D\bin\Debug\net7.0\Array2D.deps.json
+C:\Users\Acer\Desktop\ycp\.Net\Day4\Day5\Array2D\bin\Debug\net7.0\Array2D.runtimeconfig.json
+C:\Users\Acer\Desktop\ycp\.Net\Day4\Day5\Array2D\bin\Debug\net7.0\Array2D.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day4\Day5\Array2D\bin\Debug\net7.0\Array2D.pdb
+C:\Users\Acer\Desktop\ycp\.Net\Day4\Day5\Array2D\obj\Debug\net7.0\Array2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\ycp\.Net\Day4\Day5\Array2D\obj\Debug\net7.0\Array2D.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day4\Day5\Array2D\obj\Debug\net7.0\Array2D.AssemblyInfo.cs
+C:\Users\Acer\Desktop\ycp\.Net\Day4\Day5\Array2D\obj\Debug\net7.0\Array2D.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day4\Day5\Array2D\obj\Debug\net7.0\Array2D.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day4\Day5\Array2D\obj\Debug\net7.0\refint\Array2D.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day4\Day5\Array2D\obj\Debug\net7.0\Array2D.pdb
+C:\Users\Acer\Desktop\ycp\.Net\Day4\Day5\Array2D\obj\Debug\net7.0\Array2D.genruntimeconfig.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day4\Day5\Array2D\obj\Debug\net7.0\ref\Array2D.dll

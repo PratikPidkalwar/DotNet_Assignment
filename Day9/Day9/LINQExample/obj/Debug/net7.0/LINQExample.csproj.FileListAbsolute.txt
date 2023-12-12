@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\ycp\.Net\Day9\Day9\LINQExample\bin\Debug\net7.0\LINQExample.exe
+C:\Users\Acer\Desktop\ycp\.Net\Day9\Day9\LINQExample\bin\Debug\net7.0\LINQExample.deps.json
+C:\Users\Acer\Desktop\ycp\.Net\Day9\Day9\LINQExample\bin\Debug\net7.0\LINQExample.runtimeconfig.json
+C:\Users\Acer\Desktop\ycp\.Net\Day9\Day9\LINQExample\bin\Debug\net7.0\LINQExample.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day9\Day9\LINQExample\bin\Debug\net7.0\LINQExample.pdb
+C:\Users\Acer\Desktop\ycp\.Net\Day9\Day9\LINQExample\obj\Debug\net7.0\LINQExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\ycp\.Net\Day9\Day9\LINQExample\obj\Debug\net7.0\LINQExample.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day9\Day9\LINQExample\obj\Debug\net7.0\LINQExample.AssemblyInfo.cs
+C:\Users\Acer\Desktop\ycp\.Net\Day9\Day9\LINQExample\obj\Debug\net7.0\LINQExample.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day9\Day9\LINQExample\obj\Debug\net7.0\LINQExample.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day9\Day9\LINQExample\obj\Debug\net7.0\refint\LINQExample.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day9\Day9\LINQExample\obj\Debug\net7.0\LINQExample.pdb
+C:\Users\Acer\Desktop\ycp\.Net\Day9\Day9\LINQExample\obj\Debug\net7.0\LINQExample.genruntimeconfig.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day9\Day9\LINQExample\obj\Debug\net7.0\ref\LINQExample.dll

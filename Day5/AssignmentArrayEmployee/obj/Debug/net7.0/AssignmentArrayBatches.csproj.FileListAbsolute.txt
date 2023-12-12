@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\ycp\.Net\Day5\AssignmentArrayEmployee\bin\Debug\net7.0\AssignmentArrayBatches.exe
+C:\Users\Acer\Desktop\ycp\.Net\Day5\AssignmentArrayEmployee\bin\Debug\net7.0\AssignmentArrayBatches.deps.json
+C:\Users\Acer\Desktop\ycp\.Net\Day5\AssignmentArrayEmployee\bin\Debug\net7.0\AssignmentArrayBatches.runtimeconfig.json
+C:\Users\Acer\Desktop\ycp\.Net\Day5\AssignmentArrayEmployee\bin\Debug\net7.0\AssignmentArrayBatches.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day5\AssignmentArrayEmployee\bin\Debug\net7.0\AssignmentArrayBatches.pdb
+C:\Users\Acer\Desktop\ycp\.Net\Day5\AssignmentArrayEmployee\obj\Debug\net7.0\AssignmentArrayBatches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\ycp\.Net\Day5\AssignmentArrayEmployee\obj\Debug\net7.0\AssignmentArrayBatches.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day5\AssignmentArrayEmployee\obj\Debug\net7.0\AssignmentArrayBatches.AssemblyInfo.cs
+C:\Users\Acer\Desktop\ycp\.Net\Day5\AssignmentArrayEmployee\obj\Debug\net7.0\AssignmentArrayBatches.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day5\AssignmentArrayEmployee\obj\Debug\net7.0\AssignmentArrayBatches.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day5\AssignmentArrayEmployee\obj\Debug\net7.0\refint\AssignmentArrayBatches.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day5\AssignmentArrayEmployee\obj\Debug\net7.0\AssignmentArrayBatches.pdb
+C:\Users\Acer\Desktop\ycp\.Net\Day5\AssignmentArrayEmployee\obj\Debug\net7.0\AssignmentArrayBatches.genruntimeconfig.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day5\AssignmentArrayEmployee\obj\Debug\net7.0\ref\AssignmentArrayBatches.dll

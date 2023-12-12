@@ -1,0 +1,15 @@
+D:\Trainings\YcpOct23\Day2\FieldsAndProperties\bin\Debug\net7.0\FieldsAndProperties.exe
+D:\Trainings\YcpOct23\Day2\FieldsAndProperties\bin\Debug\net7.0\FieldsAndProperties.deps.json
+D:\Trainings\YcpOct23\Day2\FieldsAndProperties\bin\Debug\net7.0\FieldsAndProperties.runtimeconfig.json
+D:\Trainings\YcpOct23\Day2\FieldsAndProperties\bin\Debug\net7.0\FieldsAndProperties.dll
+D:\Trainings\YcpOct23\Day2\FieldsAndProperties\bin\Debug\net7.0\FieldsAndProperties.pdb
+D:\Trainings\YcpOct23\Day2\FieldsAndProperties\obj\Debug\net7.0\FieldsAndProperties.csproj.AssemblyReference.cache
+D:\Trainings\YcpOct23\Day2\FieldsAndProperties\obj\Debug\net7.0\FieldsAndProperties.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\YcpOct23\Day2\FieldsAndProperties\obj\Debug\net7.0\FieldsAndProperties.AssemblyInfoInputs.cache
+D:\Trainings\YcpOct23\Day2\FieldsAndProperties\obj\Debug\net7.0\FieldsAndProperties.AssemblyInfo.cs
+D:\Trainings\YcpOct23\Day2\FieldsAndProperties\obj\Debug\net7.0\FieldsAndProperties.csproj.CoreCompileInputs.cache
+D:\Trainings\YcpOct23\Day2\FieldsAndProperties\obj\Debug\net7.0\FieldsAndProperties.dll
+D:\Trainings\YcpOct23\Day2\FieldsAndProperties\obj\Debug\net7.0\refint\FieldsAndProperties.dll
+D:\Trainings\YcpOct23\Day2\FieldsAndProperties\obj\Debug\net7.0\FieldsAndProperties.pdb
+D:\Trainings\YcpOct23\Day2\FieldsAndProperties\obj\Debug\net7.0\FieldsAndProperties.genruntimeconfig.cache
+D:\Trainings\YcpOct23\Day2\FieldsAndProperties\obj\Debug\net7.0\ref\FieldsAndProperties.dll

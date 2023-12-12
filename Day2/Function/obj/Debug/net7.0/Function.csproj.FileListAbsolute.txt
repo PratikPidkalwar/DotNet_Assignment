@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\ycp\.Net\Day2\Function\obj\Debug\net7.0\Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\ycp\.Net\Day2\Function\obj\Debug\net7.0\Function.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day2\Function\obj\Debug\net7.0\Function.AssemblyInfo.cs
+C:\Users\Acer\Desktop\ycp\.Net\Day2\Function\obj\Debug\net7.0\Function.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day2\Function\bin\Debug\net7.0\Function.exe
+C:\Users\Acer\Desktop\ycp\.Net\Day2\Function\bin\Debug\net7.0\Function.deps.json
+C:\Users\Acer\Desktop\ycp\.Net\Day2\Function\bin\Debug\net7.0\Function.runtimeconfig.json
+C:\Users\Acer\Desktop\ycp\.Net\Day2\Function\bin\Debug\net7.0\Function.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day2\Function\bin\Debug\net7.0\Function.pdb
+C:\Users\Acer\Desktop\ycp\.Net\Day2\Function\obj\Debug\net7.0\Function.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day2\Function\obj\Debug\net7.0\refint\Function.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day2\Function\obj\Debug\net7.0\Function.pdb
+C:\Users\Acer\Desktop\ycp\.Net\Day2\Function\obj\Debug\net7.0\Function.genruntimeconfig.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day2\Function\obj\Debug\net7.0\ref\Function.dll

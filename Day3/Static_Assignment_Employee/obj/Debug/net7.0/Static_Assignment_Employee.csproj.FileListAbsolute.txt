@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\ycp\.Net\Static_Assignment_Employee\bin\Debug\net7.0\Static_Assignment_Employee.exe
+C:\Users\Acer\Desktop\ycp\.Net\Static_Assignment_Employee\bin\Debug\net7.0\Static_Assignment_Employee.deps.json
+C:\Users\Acer\Desktop\ycp\.Net\Static_Assignment_Employee\bin\Debug\net7.0\Static_Assignment_Employee.runtimeconfig.json
+C:\Users\Acer\Desktop\ycp\.Net\Static_Assignment_Employee\bin\Debug\net7.0\Static_Assignment_Employee.dll
+C:\Users\Acer\Desktop\ycp\.Net\Static_Assignment_Employee\bin\Debug\net7.0\Static_Assignment_Employee.pdb
+C:\Users\Acer\Desktop\ycp\.Net\Static_Assignment_Employee\obj\Debug\net7.0\Static_Assignment_Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\ycp\.Net\Static_Assignment_Employee\obj\Debug\net7.0\Static_Assignment_Employee.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\Static_Assignment_Employee\obj\Debug\net7.0\Static_Assignment_Employee.AssemblyInfo.cs
+C:\Users\Acer\Desktop\ycp\.Net\Static_Assignment_Employee\obj\Debug\net7.0\Static_Assignment_Employee.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\Static_Assignment_Employee\obj\Debug\net7.0\Static_Assignment_Employee.dll
+C:\Users\Acer\Desktop\ycp\.Net\Static_Assignment_Employee\obj\Debug\net7.0\refint\Static_Assignment_Employee.dll
+C:\Users\Acer\Desktop\ycp\.Net\Static_Assignment_Employee\obj\Debug\net7.0\Static_Assignment_Employee.pdb
+C:\Users\Acer\Desktop\ycp\.Net\Static_Assignment_Employee\obj\Debug\net7.0\Static_Assignment_Employee.genruntimeconfig.cache
+C:\Users\Acer\Desktop\ycp\.Net\Static_Assignment_Employee\obj\Debug\net7.0\ref\Static_Assignment_Employee.dll

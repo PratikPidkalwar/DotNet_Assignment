@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\ycp\.Net\Day11\Assignment1\bin\Debug\net7.0\Assignment1.exe
+C:\Users\Acer\Desktop\ycp\.Net\Day11\Assignment1\bin\Debug\net7.0\Assignment1.deps.json
+C:\Users\Acer\Desktop\ycp\.Net\Day11\Assignment1\bin\Debug\net7.0\Assignment1.runtimeconfig.json
+C:\Users\Acer\Desktop\ycp\.Net\Day11\Assignment1\bin\Debug\net7.0\Assignment1.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day11\Assignment1\bin\Debug\net7.0\Assignment1.pdb
+C:\Users\Acer\Desktop\ycp\.Net\Day11\Assignment1\obj\Debug\net7.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\ycp\.Net\Day11\Assignment1\obj\Debug\net7.0\Assignment1.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day11\Assignment1\obj\Debug\net7.0\Assignment1.AssemblyInfo.cs
+C:\Users\Acer\Desktop\ycp\.Net\Day11\Assignment1\obj\Debug\net7.0\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day11\Assignment1\obj\Debug\net7.0\Assignment1.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day11\Assignment1\obj\Debug\net7.0\refint\Assignment1.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day11\Assignment1\obj\Debug\net7.0\Assignment1.pdb
+C:\Users\Acer\Desktop\ycp\.Net\Day11\Assignment1\obj\Debug\net7.0\Assignment1.genruntimeconfig.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day11\Assignment1\obj\Debug\net7.0\ref\Assignment1.dll

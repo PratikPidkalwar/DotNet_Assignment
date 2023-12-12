@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\ycp\.Net\Day5\ValueType1\bin\Debug\net7.0\ValueType1.exe
+C:\Users\Acer\Desktop\ycp\.Net\Day5\ValueType1\bin\Debug\net7.0\ValueType1.deps.json
+C:\Users\Acer\Desktop\ycp\.Net\Day5\ValueType1\bin\Debug\net7.0\ValueType1.runtimeconfig.json
+C:\Users\Acer\Desktop\ycp\.Net\Day5\ValueType1\bin\Debug\net7.0\ValueType1.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day5\ValueType1\bin\Debug\net7.0\ValueType1.pdb
+C:\Users\Acer\Desktop\ycp\.Net\Day5\ValueType1\obj\Debug\net7.0\ValueType1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\ycp\.Net\Day5\ValueType1\obj\Debug\net7.0\ValueType1.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day5\ValueType1\obj\Debug\net7.0\ValueType1.AssemblyInfo.cs
+C:\Users\Acer\Desktop\ycp\.Net\Day5\ValueType1\obj\Debug\net7.0\ValueType1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day5\ValueType1\obj\Debug\net7.0\ValueType1.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day5\ValueType1\obj\Debug\net7.0\refint\ValueType1.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day5\ValueType1\obj\Debug\net7.0\ValueType1.pdb
+C:\Users\Acer\Desktop\ycp\.Net\Day5\ValueType1\obj\Debug\net7.0\ValueType1.genruntimeconfig.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day5\ValueType1\obj\Debug\net7.0\ref\ValueType1.dll

@@ -1,0 +1,15 @@
+D:\Trainings\YcpOct23\Day3\StaticMembers\bin\Debug\net7.0\StaticMembers.exe
+D:\Trainings\YcpOct23\Day3\StaticMembers\bin\Debug\net7.0\StaticMembers.deps.json
+D:\Trainings\YcpOct23\Day3\StaticMembers\bin\Debug\net7.0\StaticMembers.runtimeconfig.json
+D:\Trainings\YcpOct23\Day3\StaticMembers\bin\Debug\net7.0\StaticMembers.dll
+D:\Trainings\YcpOct23\Day3\StaticMembers\bin\Debug\net7.0\StaticMembers.pdb
+D:\Trainings\YcpOct23\Day3\StaticMembers\obj\Debug\net7.0\StaticMembers.csproj.AssemblyReference.cache
+D:\Trainings\YcpOct23\Day3\StaticMembers\obj\Debug\net7.0\StaticMembers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\YcpOct23\Day3\StaticMembers\obj\Debug\net7.0\StaticMembers.AssemblyInfoInputs.cache
+D:\Trainings\YcpOct23\Day3\StaticMembers\obj\Debug\net7.0\StaticMembers.AssemblyInfo.cs
+D:\Trainings\YcpOct23\Day3\StaticMembers\obj\Debug\net7.0\StaticMembers.csproj.CoreCompileInputs.cache
+D:\Trainings\YcpOct23\Day3\StaticMembers\obj\Debug\net7.0\StaticMembers.dll
+D:\Trainings\YcpOct23\Day3\StaticMembers\obj\Debug\net7.0\refint\StaticMembers.dll
+D:\Trainings\YcpOct23\Day3\StaticMembers\obj\Debug\net7.0\StaticMembers.pdb
+D:\Trainings\YcpOct23\Day3\StaticMembers\obj\Debug\net7.0\StaticMembers.genruntimeconfig.cache
+D:\Trainings\YcpOct23\Day3\StaticMembers\obj\Debug\net7.0\ref\StaticMembers.dll

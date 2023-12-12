@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\ycp\.Net\Day11\AssignEmpList\bin\Debug\net7.0\AssignEmpList.exe
+C:\Users\Acer\Desktop\ycp\.Net\Day11\AssignEmpList\bin\Debug\net7.0\AssignEmpList.deps.json
+C:\Users\Acer\Desktop\ycp\.Net\Day11\AssignEmpList\bin\Debug\net7.0\AssignEmpList.runtimeconfig.json
+C:\Users\Acer\Desktop\ycp\.Net\Day11\AssignEmpList\bin\Debug\net7.0\AssignEmpList.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day11\AssignEmpList\bin\Debug\net7.0\AssignEmpList.pdb
+C:\Users\Acer\Desktop\ycp\.Net\Day11\AssignEmpList\obj\Debug\net7.0\AssignEmpList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\ycp\.Net\Day11\AssignEmpList\obj\Debug\net7.0\AssignEmpList.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day11\AssignEmpList\obj\Debug\net7.0\AssignEmpList.AssemblyInfo.cs
+C:\Users\Acer\Desktop\ycp\.Net\Day11\AssignEmpList\obj\Debug\net7.0\AssignEmpList.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day11\AssignEmpList\obj\Debug\net7.0\AssignEmpList.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day11\AssignEmpList\obj\Debug\net7.0\refint\AssignEmpList.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day11\AssignEmpList\obj\Debug\net7.0\AssignEmpList.pdb
+C:\Users\Acer\Desktop\ycp\.Net\Day11\AssignEmpList\obj\Debug\net7.0\AssignEmpList.genruntimeconfig.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day11\AssignEmpList\obj\Debug\net7.0\ref\AssignEmpList.dll

@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\ycp\.Net\Day7\Day7\AnonymousMethodAndLambdas\bin\Debug\net7.0\AnonymousMethodAndLambdas.exe
+C:\Users\Acer\Desktop\ycp\.Net\Day7\Day7\AnonymousMethodAndLambdas\bin\Debug\net7.0\AnonymousMethodAndLambdas.deps.json
+C:\Users\Acer\Desktop\ycp\.Net\Day7\Day7\AnonymousMethodAndLambdas\bin\Debug\net7.0\AnonymousMethodAndLambdas.runtimeconfig.json
+C:\Users\Acer\Desktop\ycp\.Net\Day7\Day7\AnonymousMethodAndLambdas\bin\Debug\net7.0\AnonymousMethodAndLambdas.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day7\Day7\AnonymousMethodAndLambdas\bin\Debug\net7.0\AnonymousMethodAndLambdas.pdb
+C:\Users\Acer\Desktop\ycp\.Net\Day7\Day7\AnonymousMethodAndLambdas\obj\Debug\net7.0\AnonymousMethodAndLambdas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\ycp\.Net\Day7\Day7\AnonymousMethodAndLambdas\obj\Debug\net7.0\AnonymousMethodAndLambdas.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day7\Day7\AnonymousMethodAndLambdas\obj\Debug\net7.0\AnonymousMethodAndLambdas.AssemblyInfo.cs
+C:\Users\Acer\Desktop\ycp\.Net\Day7\Day7\AnonymousMethodAndLambdas\obj\Debug\net7.0\AnonymousMethodAndLambdas.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day7\Day7\AnonymousMethodAndLambdas\obj\Debug\net7.0\AnonymousMethodAndLambdas.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day7\Day7\AnonymousMethodAndLambdas\obj\Debug\net7.0\refint\AnonymousMethodAndLambdas.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day7\Day7\AnonymousMethodAndLambdas\obj\Debug\net7.0\AnonymousMethodAndLambdas.pdb
+C:\Users\Acer\Desktop\ycp\.Net\Day7\Day7\AnonymousMethodAndLambdas\obj\Debug\net7.0\AnonymousMethodAndLambdas.genruntimeconfig.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day7\Day7\AnonymousMethodAndLambdas\obj\Debug\net7.0\ref\AnonymousMethodAndLambdas.dll

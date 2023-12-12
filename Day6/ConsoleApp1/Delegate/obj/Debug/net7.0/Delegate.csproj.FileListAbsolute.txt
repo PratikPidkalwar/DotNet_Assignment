@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\ycp\.Net\Day6\ConsoleApp1\Delegate\bin\Debug\net7.0\Delegate.exe
+C:\Users\Acer\Desktop\ycp\.Net\Day6\ConsoleApp1\Delegate\bin\Debug\net7.0\Delegate.deps.json
+C:\Users\Acer\Desktop\ycp\.Net\Day6\ConsoleApp1\Delegate\bin\Debug\net7.0\Delegate.runtimeconfig.json
+C:\Users\Acer\Desktop\ycp\.Net\Day6\ConsoleApp1\Delegate\bin\Debug\net7.0\Delegate.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day6\ConsoleApp1\Delegate\bin\Debug\net7.0\Delegate.pdb
+C:\Users\Acer\Desktop\ycp\.Net\Day6\ConsoleApp1\Delegate\obj\Debug\net7.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\ycp\.Net\Day6\ConsoleApp1\Delegate\obj\Debug\net7.0\Delegate.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day6\ConsoleApp1\Delegate\obj\Debug\net7.0\Delegate.AssemblyInfo.cs
+C:\Users\Acer\Desktop\ycp\.Net\Day6\ConsoleApp1\Delegate\obj\Debug\net7.0\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day6\ConsoleApp1\Delegate\obj\Debug\net7.0\Delegate.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day6\ConsoleApp1\Delegate\obj\Debug\net7.0\refint\Delegate.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day6\ConsoleApp1\Delegate\obj\Debug\net7.0\Delegate.pdb
+C:\Users\Acer\Desktop\ycp\.Net\Day6\ConsoleApp1\Delegate\obj\Debug\net7.0\Delegate.genruntimeconfig.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day6\ConsoleApp1\Delegate\obj\Debug\net7.0\ref\Delegate.dll

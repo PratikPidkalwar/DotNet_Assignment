@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\ycp\.Net\Day5\EmployeeSalAssignment\bin\Debug\net7.0\EmployeeSalAssignment.exe
+C:\Users\Acer\Desktop\ycp\.Net\Day5\EmployeeSalAssignment\bin\Debug\net7.0\EmployeeSalAssignment.deps.json
+C:\Users\Acer\Desktop\ycp\.Net\Day5\EmployeeSalAssignment\bin\Debug\net7.0\EmployeeSalAssignment.runtimeconfig.json
+C:\Users\Acer\Desktop\ycp\.Net\Day5\EmployeeSalAssignment\bin\Debug\net7.0\EmployeeSalAssignment.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day5\EmployeeSalAssignment\bin\Debug\net7.0\EmployeeSalAssignment.pdb
+C:\Users\Acer\Desktop\ycp\.Net\Day5\EmployeeSalAssignment\obj\Debug\net7.0\EmployeeSalAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\ycp\.Net\Day5\EmployeeSalAssignment\obj\Debug\net7.0\EmployeeSalAssignment.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day5\EmployeeSalAssignment\obj\Debug\net7.0\EmployeeSalAssignment.AssemblyInfo.cs
+C:\Users\Acer\Desktop\ycp\.Net\Day5\EmployeeSalAssignment\obj\Debug\net7.0\EmployeeSalAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day5\EmployeeSalAssignment\obj\Debug\net7.0\EmployeeSalAssignment.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day5\EmployeeSalAssignment\obj\Debug\net7.0\refint\EmployeeSalAssignment.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day5\EmployeeSalAssignment\obj\Debug\net7.0\EmployeeSalAssignment.pdb
+C:\Users\Acer\Desktop\ycp\.Net\Day5\EmployeeSalAssignment\obj\Debug\net7.0\EmployeeSalAssignment.genruntimeconfig.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day5\EmployeeSalAssignment\obj\Debug\net7.0\ref\EmployeeSalAssignment.dll

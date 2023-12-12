@@ -1,0 +1,2 @@
+Read Chapter 1 for additional reading
+Read up on Generations in Garbage Collection

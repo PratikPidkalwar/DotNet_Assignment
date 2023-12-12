@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\ycp\.Net\Day11\Basic\bin\Debug\net7.0\Basic.exe
+C:\Users\Acer\Desktop\ycp\.Net\Day11\Basic\bin\Debug\net7.0\Basic.deps.json
+C:\Users\Acer\Desktop\ycp\.Net\Day11\Basic\bin\Debug\net7.0\Basic.runtimeconfig.json
+C:\Users\Acer\Desktop\ycp\.Net\Day11\Basic\bin\Debug\net7.0\Basic.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day11\Basic\bin\Debug\net7.0\Basic.pdb
+C:\Users\Acer\Desktop\ycp\.Net\Day11\Basic\obj\Debug\net7.0\Basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\ycp\.Net\Day11\Basic\obj\Debug\net7.0\Basic.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day11\Basic\obj\Debug\net7.0\Basic.AssemblyInfo.cs
+C:\Users\Acer\Desktop\ycp\.Net\Day11\Basic\obj\Debug\net7.0\Basic.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day11\Basic\obj\Debug\net7.0\Basic.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day11\Basic\obj\Debug\net7.0\refint\Basic.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day11\Basic\obj\Debug\net7.0\Basic.pdb
+C:\Users\Acer\Desktop\ycp\.Net\Day11\Basic\obj\Debug\net7.0\Basic.genruntimeconfig.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day11\Basic\obj\Debug\net7.0\ref\Basic.dll

@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\ycp\.Net\Day7\Day7\ActionFuncPredicate\bin\Debug\net7.0\ActionFuncPredicate.exe
+C:\Users\Acer\Desktop\ycp\.Net\Day7\Day7\ActionFuncPredicate\bin\Debug\net7.0\ActionFuncPredicate.deps.json
+C:\Users\Acer\Desktop\ycp\.Net\Day7\Day7\ActionFuncPredicate\bin\Debug\net7.0\ActionFuncPredicate.runtimeconfig.json
+C:\Users\Acer\Desktop\ycp\.Net\Day7\Day7\ActionFuncPredicate\bin\Debug\net7.0\ActionFuncPredicate.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day7\Day7\ActionFuncPredicate\bin\Debug\net7.0\ActionFuncPredicate.pdb
+C:\Users\Acer\Desktop\ycp\.Net\Day7\Day7\ActionFuncPredicate\obj\Debug\net7.0\ActionFuncPredicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\ycp\.Net\Day7\Day7\ActionFuncPredicate\obj\Debug\net7.0\ActionFuncPredicate.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day7\Day7\ActionFuncPredicate\obj\Debug\net7.0\ActionFuncPredicate.AssemblyInfo.cs
+C:\Users\Acer\Desktop\ycp\.Net\Day7\Day7\ActionFuncPredicate\obj\Debug\net7.0\ActionFuncPredicate.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day7\Day7\ActionFuncPredicate\obj\Debug\net7.0\ActionFuncPredicate.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day7\Day7\ActionFuncPredicate\obj\Debug\net7.0\refint\ActionFuncPredicate.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day7\Day7\ActionFuncPredicate\obj\Debug\net7.0\ActionFuncPredicate.pdb
+C:\Users\Acer\Desktop\ycp\.Net\Day7\Day7\ActionFuncPredicate\obj\Debug\net7.0\ActionFuncPredicate.genruntimeconfig.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day7\Day7\ActionFuncPredicate\obj\Debug\net7.0\ref\ActionFuncPredicate.dll

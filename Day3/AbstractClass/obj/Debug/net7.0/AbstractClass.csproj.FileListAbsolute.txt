@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\ycp\.Net\AbstractClass\bin\Debug\net7.0\AbstractClass.exe
+C:\Users\Acer\Desktop\ycp\.Net\AbstractClass\bin\Debug\net7.0\AbstractClass.deps.json
+C:\Users\Acer\Desktop\ycp\.Net\AbstractClass\bin\Debug\net7.0\AbstractClass.runtimeconfig.json
+C:\Users\Acer\Desktop\ycp\.Net\AbstractClass\bin\Debug\net7.0\AbstractClass.dll
+C:\Users\Acer\Desktop\ycp\.Net\AbstractClass\bin\Debug\net7.0\AbstractClass.pdb
+C:\Users\Acer\Desktop\ycp\.Net\AbstractClass\obj\Debug\net7.0\AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\ycp\.Net\AbstractClass\obj\Debug\net7.0\AbstractClass.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\AbstractClass\obj\Debug\net7.0\AbstractClass.AssemblyInfo.cs
+C:\Users\Acer\Desktop\ycp\.Net\AbstractClass\obj\Debug\net7.0\AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\AbstractClass\obj\Debug\net7.0\AbstractClass.dll
+C:\Users\Acer\Desktop\ycp\.Net\AbstractClass\obj\Debug\net7.0\refint\AbstractClass.dll
+C:\Users\Acer\Desktop\ycp\.Net\AbstractClass\obj\Debug\net7.0\AbstractClass.pdb
+C:\Users\Acer\Desktop\ycp\.Net\AbstractClass\obj\Debug\net7.0\AbstractClass.genruntimeconfig.cache
+C:\Users\Acer\Desktop\ycp\.Net\AbstractClass\obj\Debug\net7.0\ref\AbstractClass.dll

@@ -1,0 +1,15 @@
+D:\Trainings\YcpOct23\Day7\AnonymousMethodsAndLambdas\bin\Debug\net7.0\AnonymousMethodsAndLambdas.exe
+D:\Trainings\YcpOct23\Day7\AnonymousMethodsAndLambdas\bin\Debug\net7.0\AnonymousMethodsAndLambdas.deps.json
+D:\Trainings\YcpOct23\Day7\AnonymousMethodsAndLambdas\bin\Debug\net7.0\AnonymousMethodsAndLambdas.runtimeconfig.json
+D:\Trainings\YcpOct23\Day7\AnonymousMethodsAndLambdas\bin\Debug\net7.0\AnonymousMethodsAndLambdas.dll
+D:\Trainings\YcpOct23\Day7\AnonymousMethodsAndLambdas\bin\Debug\net7.0\AnonymousMethodsAndLambdas.pdb
+D:\Trainings\YcpOct23\Day7\AnonymousMethodsAndLambdas\obj\Debug\net7.0\AnonymousMethodsAndLambdas.csproj.AssemblyReference.cache
+D:\Trainings\YcpOct23\Day7\AnonymousMethodsAndLambdas\obj\Debug\net7.0\AnonymousMethodsAndLambdas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\YcpOct23\Day7\AnonymousMethodsAndLambdas\obj\Debug\net7.0\AnonymousMethodsAndLambdas.AssemblyInfoInputs.cache
+D:\Trainings\YcpOct23\Day7\AnonymousMethodsAndLambdas\obj\Debug\net7.0\AnonymousMethodsAndLambdas.AssemblyInfo.cs
+D:\Trainings\YcpOct23\Day7\AnonymousMethodsAndLambdas\obj\Debug\net7.0\AnonymousMethodsAndLambdas.csproj.CoreCompileInputs.cache
+D:\Trainings\YcpOct23\Day7\AnonymousMethodsAndLambdas\obj\Debug\net7.0\AnonymousMethodsAndLambdas.dll
+D:\Trainings\YcpOct23\Day7\AnonymousMethodsAndLambdas\obj\Debug\net7.0\refint\AnonymousMethodsAndLambdas.dll
+D:\Trainings\YcpOct23\Day7\AnonymousMethodsAndLambdas\obj\Debug\net7.0\AnonymousMethodsAndLambdas.pdb
+D:\Trainings\YcpOct23\Day7\AnonymousMethodsAndLambdas\obj\Debug\net7.0\AnonymousMethodsAndLambdas.genruntimeconfig.cache
+D:\Trainings\YcpOct23\Day7\AnonymousMethodsAndLambdas\obj\Debug\net7.0\ref\AnonymousMethodsAndLambdas.dll

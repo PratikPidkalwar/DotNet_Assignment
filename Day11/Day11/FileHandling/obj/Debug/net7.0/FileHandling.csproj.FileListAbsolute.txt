@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\ycp\.Net\Day11\Day11\FileHandling\bin\Debug\net7.0\FileHandling.exe
+C:\Users\Acer\Desktop\ycp\.Net\Day11\Day11\FileHandling\bin\Debug\net7.0\FileHandling.deps.json
+C:\Users\Acer\Desktop\ycp\.Net\Day11\Day11\FileHandling\bin\Debug\net7.0\FileHandling.runtimeconfig.json
+C:\Users\Acer\Desktop\ycp\.Net\Day11\Day11\FileHandling\bin\Debug\net7.0\FileHandling.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day11\Day11\FileHandling\bin\Debug\net7.0\FileHandling.pdb
+C:\Users\Acer\Desktop\ycp\.Net\Day11\Day11\FileHandling\obj\Debug\net7.0\FileHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\ycp\.Net\Day11\Day11\FileHandling\obj\Debug\net7.0\FileHandling.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day11\Day11\FileHandling\obj\Debug\net7.0\FileHandling.AssemblyInfo.cs
+C:\Users\Acer\Desktop\ycp\.Net\Day11\Day11\FileHandling\obj\Debug\net7.0\FileHandling.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day11\Day11\FileHandling\obj\Debug\net7.0\FileHandling.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day11\Day11\FileHandling\obj\Debug\net7.0\refint\FileHandling.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day11\Day11\FileHandling\obj\Debug\net7.0\FileHandling.pdb
+C:\Users\Acer\Desktop\ycp\.Net\Day11\Day11\FileHandling\obj\Debug\net7.0\FileHandling.genruntimeconfig.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day11\Day11\FileHandling\obj\Debug\net7.0\ref\FileHandling.dll

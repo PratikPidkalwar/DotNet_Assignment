@@ -1,0 +1,15 @@
+D:\Trainings\YcpOct23\ExceptionHandling\ExceptionHandling\bin\Debug\net7.0\ExceptionHandling.exe
+D:\Trainings\YcpOct23\ExceptionHandling\ExceptionHandling\bin\Debug\net7.0\ExceptionHandling.deps.json
+D:\Trainings\YcpOct23\ExceptionHandling\ExceptionHandling\bin\Debug\net7.0\ExceptionHandling.runtimeconfig.json
+D:\Trainings\YcpOct23\ExceptionHandling\ExceptionHandling\bin\Debug\net7.0\ExceptionHandling.dll
+D:\Trainings\YcpOct23\ExceptionHandling\ExceptionHandling\bin\Debug\net7.0\ExceptionHandling.pdb
+D:\Trainings\YcpOct23\ExceptionHandling\ExceptionHandling\obj\Debug\net7.0\ExceptionHandling.csproj.AssemblyReference.cache
+D:\Trainings\YcpOct23\ExceptionHandling\ExceptionHandling\obj\Debug\net7.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\YcpOct23\ExceptionHandling\ExceptionHandling\obj\Debug\net7.0\ExceptionHandling.AssemblyInfoInputs.cache
+D:\Trainings\YcpOct23\ExceptionHandling\ExceptionHandling\obj\Debug\net7.0\ExceptionHandling.AssemblyInfo.cs
+D:\Trainings\YcpOct23\ExceptionHandling\ExceptionHandling\obj\Debug\net7.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+D:\Trainings\YcpOct23\ExceptionHandling\ExceptionHandling\obj\Debug\net7.0\ExceptionHandling.dll
+D:\Trainings\YcpOct23\ExceptionHandling\ExceptionHandling\obj\Debug\net7.0\refint\ExceptionHandling.dll
+D:\Trainings\YcpOct23\ExceptionHandling\ExceptionHandling\obj\Debug\net7.0\ExceptionHandling.pdb
+D:\Trainings\YcpOct23\ExceptionHandling\ExceptionHandling\obj\Debug\net7.0\ExceptionHandling.genruntimeconfig.cache
+D:\Trainings\YcpOct23\ExceptionHandling\ExceptionHandling\obj\Debug\net7.0\ref\ExceptionHandling.dll

@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\ycp\.Net\Day6\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\GenericExample.exe
+C:\Users\Acer\Desktop\ycp\.Net\Day6\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\GenericExample.deps.json
+C:\Users\Acer\Desktop\ycp\.Net\Day6\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\GenericExample.runtimeconfig.json
+C:\Users\Acer\Desktop\ycp\.Net\Day6\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\GenericExample.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day6\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\GenericExample.pdb
+C:\Users\Acer\Desktop\ycp\.Net\Day6\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\GenericExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\ycp\.Net\Day6\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\GenericExample.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day6\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\GenericExample.AssemblyInfo.cs
+C:\Users\Acer\Desktop\ycp\.Net\Day6\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\GenericExample.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day6\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\GenericExample.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day6\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\refint\GenericExample.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day6\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\GenericExample.pdb
+C:\Users\Acer\Desktop\ycp\.Net\Day6\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\GenericExample.genruntimeconfig.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day6\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ref\GenericExample.dll

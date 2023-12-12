@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\ycp\.Net\Day5\RefAndValue2\bin\Debug\net7.0\RefAndValue2.exe
+C:\Users\Acer\Desktop\ycp\.Net\Day5\RefAndValue2\bin\Debug\net7.0\RefAndValue2.deps.json
+C:\Users\Acer\Desktop\ycp\.Net\Day5\RefAndValue2\bin\Debug\net7.0\RefAndValue2.runtimeconfig.json
+C:\Users\Acer\Desktop\ycp\.Net\Day5\RefAndValue2\bin\Debug\net7.0\RefAndValue2.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day5\RefAndValue2\bin\Debug\net7.0\RefAndValue2.pdb
+C:\Users\Acer\Desktop\ycp\.Net\Day5\RefAndValue2\obj\Debug\net7.0\RefAndValue2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\ycp\.Net\Day5\RefAndValue2\obj\Debug\net7.0\RefAndValue2.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day5\RefAndValue2\obj\Debug\net7.0\RefAndValue2.AssemblyInfo.cs
+C:\Users\Acer\Desktop\ycp\.Net\Day5\RefAndValue2\obj\Debug\net7.0\RefAndValue2.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day5\RefAndValue2\obj\Debug\net7.0\RefAndValue2.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day5\RefAndValue2\obj\Debug\net7.0\refint\RefAndValue2.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day5\RefAndValue2\obj\Debug\net7.0\RefAndValue2.pdb
+C:\Users\Acer\Desktop\ycp\.Net\Day5\RefAndValue2\obj\Debug\net7.0\RefAndValue2.genruntimeconfig.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day5\RefAndValue2\obj\Debug\net7.0\ref\RefAndValue2.dll

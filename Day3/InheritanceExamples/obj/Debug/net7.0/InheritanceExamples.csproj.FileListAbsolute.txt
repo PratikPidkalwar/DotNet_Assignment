@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\ycp\.Net\InheritanceExamples\bin\Debug\net7.0\InheritanceExamples.exe
+C:\Users\Acer\Desktop\ycp\.Net\InheritanceExamples\bin\Debug\net7.0\InheritanceExamples.deps.json
+C:\Users\Acer\Desktop\ycp\.Net\InheritanceExamples\bin\Debug\net7.0\InheritanceExamples.runtimeconfig.json
+C:\Users\Acer\Desktop\ycp\.Net\InheritanceExamples\bin\Debug\net7.0\InheritanceExamples.dll
+C:\Users\Acer\Desktop\ycp\.Net\InheritanceExamples\bin\Debug\net7.0\InheritanceExamples.pdb
+C:\Users\Acer\Desktop\ycp\.Net\InheritanceExamples\obj\Debug\net7.0\InheritanceExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\ycp\.Net\InheritanceExamples\obj\Debug\net7.0\InheritanceExamples.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\InheritanceExamples\obj\Debug\net7.0\InheritanceExamples.AssemblyInfo.cs
+C:\Users\Acer\Desktop\ycp\.Net\InheritanceExamples\obj\Debug\net7.0\InheritanceExamples.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\InheritanceExamples\obj\Debug\net7.0\InheritanceExamples.dll
+C:\Users\Acer\Desktop\ycp\.Net\InheritanceExamples\obj\Debug\net7.0\refint\InheritanceExamples.dll
+C:\Users\Acer\Desktop\ycp\.Net\InheritanceExamples\obj\Debug\net7.0\InheritanceExamples.pdb
+C:\Users\Acer\Desktop\ycp\.Net\InheritanceExamples\obj\Debug\net7.0\InheritanceExamples.genruntimeconfig.cache
+C:\Users\Acer\Desktop\ycp\.Net\InheritanceExamples\obj\Debug\net7.0\ref\InheritanceExamples.dll

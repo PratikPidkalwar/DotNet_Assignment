@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\ycp\.Net\Day7\Day7\ExpressionBodiedMembers\bin\Debug\net7.0\ExpressionBodiedMembers.exe
+C:\Users\Acer\Desktop\ycp\.Net\Day7\Day7\ExpressionBodiedMembers\bin\Debug\net7.0\ExpressionBodiedMembers.deps.json
+C:\Users\Acer\Desktop\ycp\.Net\Day7\Day7\ExpressionBodiedMembers\bin\Debug\net7.0\ExpressionBodiedMembers.runtimeconfig.json
+C:\Users\Acer\Desktop\ycp\.Net\Day7\Day7\ExpressionBodiedMembers\bin\Debug\net7.0\ExpressionBodiedMembers.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day7\Day7\ExpressionBodiedMembers\bin\Debug\net7.0\ExpressionBodiedMembers.pdb
+C:\Users\Acer\Desktop\ycp\.Net\Day7\Day7\ExpressionBodiedMembers\obj\Debug\net7.0\ExpressionBodiedMembers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\ycp\.Net\Day7\Day7\ExpressionBodiedMembers\obj\Debug\net7.0\ExpressionBodiedMembers.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day7\Day7\ExpressionBodiedMembers\obj\Debug\net7.0\ExpressionBodiedMembers.AssemblyInfo.cs
+C:\Users\Acer\Desktop\ycp\.Net\Day7\Day7\ExpressionBodiedMembers\obj\Debug\net7.0\ExpressionBodiedMembers.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day7\Day7\ExpressionBodiedMembers\obj\Debug\net7.0\ExpressionBodiedMembers.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day7\Day7\ExpressionBodiedMembers\obj\Debug\net7.0\refint\ExpressionBodiedMembers.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day7\Day7\ExpressionBodiedMembers\obj\Debug\net7.0\ExpressionBodiedMembers.pdb
+C:\Users\Acer\Desktop\ycp\.Net\Day7\Day7\ExpressionBodiedMembers\obj\Debug\net7.0\ExpressionBodiedMembers.genruntimeconfig.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day7\Day7\ExpressionBodiedMembers\obj\Debug\net7.0\ref\ExpressionBodiedMembers.dll

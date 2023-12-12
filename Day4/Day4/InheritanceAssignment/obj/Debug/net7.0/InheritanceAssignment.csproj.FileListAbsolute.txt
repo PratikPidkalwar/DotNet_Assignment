@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\ycp\.Net\Day4\Day4\InheritanceAssignment\obj\Debug\net7.0\InheritanceAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\ycp\.Net\Day4\Day4\InheritanceAssignment\obj\Debug\net7.0\InheritanceAssignment.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day4\Day4\InheritanceAssignment\obj\Debug\net7.0\InheritanceAssignment.AssemblyInfo.cs
+C:\Users\Acer\Desktop\ycp\.Net\Day4\Day4\InheritanceAssignment\obj\Debug\net7.0\InheritanceAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day4\Day4\InheritanceAssignment\bin\Debug\net7.0\InheritanceAssignment.exe
+C:\Users\Acer\Desktop\ycp\.Net\Day4\Day4\InheritanceAssignment\bin\Debug\net7.0\InheritanceAssignment.deps.json
+C:\Users\Acer\Desktop\ycp\.Net\Day4\Day4\InheritanceAssignment\bin\Debug\net7.0\InheritanceAssignment.runtimeconfig.json
+C:\Users\Acer\Desktop\ycp\.Net\Day4\Day4\InheritanceAssignment\bin\Debug\net7.0\InheritanceAssignment.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day4\Day4\InheritanceAssignment\bin\Debug\net7.0\InheritanceAssignment.pdb
+C:\Users\Acer\Desktop\ycp\.Net\Day4\Day4\InheritanceAssignment\obj\Debug\net7.0\InheritanceAssignment.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day4\Day4\InheritanceAssignment\obj\Debug\net7.0\refint\InheritanceAssignment.dll
+C:\Users\Acer\Desktop\ycp\.Net\Day4\Day4\InheritanceAssignment\obj\Debug\net7.0\InheritanceAssignment.pdb
+C:\Users\Acer\Desktop\ycp\.Net\Day4\Day4\InheritanceAssignment\obj\Debug\net7.0\InheritanceAssignment.genruntimeconfig.cache
+C:\Users\Acer\Desktop\ycp\.Net\Day4\Day4\InheritanceAssignment\obj\Debug\net7.0\ref\InheritanceAssignment.dll
